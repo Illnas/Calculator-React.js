@@ -47,15 +47,3 @@
   text-align: right;
 }
 
-#display-second {
-  height: 30px;
-  width: 210px;
-  background-color: rgb(177, 177, 177);
-  text-align: right;
-}
-
-#display-third {
-  height: 30px;
-  width: 210px;
-  background-color: rgb(143, 143, 143);
-}
